@@ -1,0 +1,16 @@
+AddActivity 03010000 WakeUp
+AddActivity 03010200 Stretching
+AddActivity 03010400 Walking
+AddActivity 03010600 HighHeartRate
+AddActivity 03010800 Resting
+AddActivity 03011000 Standing
+AddActivity 03011200 Workout
+AddActivity 03011400 Resting
+AddActivity 03011600 Walking
+AddActivity 03011800 Sleeping
+RemoveActivity 03012345
+RemoveActivity 03011000
+GetActivity 03012345
+GetActivity 03011200 
+GetActivity 03010400 
+PrintSkipList

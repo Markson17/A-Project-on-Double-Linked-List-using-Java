@@ -1,0 +1,25 @@
+AddActivity 03060733 WakeUp
+AddActivity 03021605 Stretching
+AddActivity 03081703 Walking
+AddActivity 03031242 HighHeartRate
+AddActivity 03031017 Resting
+AddActivity 03061626 Standing
+AddActivity 03142028 Workout
+AddActivity 03142241 Resting
+AddActivity 03101434 Walking
+GetActivitiesForOneDay 03140500
+AddActivity 03062256 Sleeping
+AddActivity 03061042 Swimming
+AddActivity 03111630 Cycling
+PrintSkipList
+AddActivity 03031424 Walking 
+AddActivity 03031749 Stretching
+AddActivity 03112305 Sleeping
+AddActivity 03022105 Sleeping
+RemoveActivity 03012345
+RemoveActivity 03101434
+GetActivity 03012345
+GetActivity 03031242 
+GetActivitiesBetweenTimes 03031000 03031400
+GetActivitiesFromEarlierInTheDay 03061700
+PrintSkipList
